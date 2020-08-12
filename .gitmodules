@@ -1,0 +1,6 @@
+[submodule "terraform-aws-codepipeline"]
+	path = terraform-aws-codepipeline
+	url = https://github.com/DTherHtun/terraform-aws-codepipeline.git
+[submodule "cloudformation-codepipeline"]
+	path = cloudformation-codepipeline
+	url = https://github.com/phyominhtun1990/cloudformation-codepipeline.git

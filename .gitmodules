@@ -4,3 +4,6 @@
 [submodule "cloudformation-codepipeline"]
 	path = cloudformation-codepipeline
 	url = https://github.com/phyominhtun1990/cloudformation-codepipeline.git
+[submodule "terraform-aws-s3backend"]
+	path = terraform-aws-s3backend
+	url = https://github.com/DTherHtun/terraform-aws-s3backend.git
